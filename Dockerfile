@@ -1,3 +1,3 @@
 FROM busybox:latest
-MAINTAINER Jorge
+MAINTAINER Jorge Luis
 CMD echo Hello World
